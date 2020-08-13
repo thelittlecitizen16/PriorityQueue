@@ -1,0 +1,15 @@
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\bin\Debug\netcoreapp3.1\LINQPriorityQueue.exe
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\bin\Debug\netcoreapp3.1\LINQPriorityQueue.deps.json
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\bin\Debug\netcoreapp3.1\LINQPriorityQueue.runtimeconfig.json
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\bin\Debug\netcoreapp3.1\LINQPriorityQueue.runtimeconfig.dev.json
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\bin\Debug\netcoreapp3.1\LINQPriorityQueue.dll
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\bin\Debug\netcoreapp3.1\LINQPriorityQueue.pdb
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.Abstract.dll
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\obj\Debug\netcoreapp3.1\LINQPriorityQueue.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\obj\Debug\netcoreapp3.1\LINQPriorityQueue.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\obj\Debug\netcoreapp3.1\LINQPriorityQueue.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\obj\Debug\netcoreapp3.1\LINQPriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\obj\Debug\netcoreapp3.1\LINQPriorityQueue.csproj.CopyComplete
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\obj\Debug\netcoreapp3.1\LINQPriorityQueue.dll
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\obj\Debug\netcoreapp3.1\LINQPriorityQueue.pdb
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\LINQPriorityQueue\LINQPriorityQueue\obj\Debug\netcoreapp3.1\LINQPriorityQueue.genruntimeconfig.cache
